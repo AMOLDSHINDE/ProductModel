@@ -1,0 +1,14 @@
+Django==5.0.1
+django-contrib-comments==2.2.0
+django-storages==1.14.2
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.1
+mysqlclient==2.2.1
+packaging==23.2
+pillow==10.2.0
+pyarrow==16.1.0
+PyJWT==2.8.0
+PyMySQL==1.1.0
+pytest==8.0.0
+python-dateutil==2.8.2
+requests==2.31.0

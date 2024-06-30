@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Product A",
+        "price": 15,
+        "retailer_name": "Retailer 3"
+    },
+    {
+        "name": "Product B",
+        "price": 15,
+        "retailer_name": "Retailer 3"
+    },
+    {
+        "name": "Product A",
+        "price": 15,
+        "retailer_name": "Retailer 4"
+    },
+    {
+        "name": "Product B",
+        "price": 15,
+        "retailer_name": "Retailer 4"
+    },
+    {
+        "name": "Product C",
+        "price": 20,
+        "retailer_name": "Retailer 5"
+    },
+    {
+        "name": "Product A",
+        "price": 25,
+        "retailer_name": "Retailer 5"
+    },
+    {
+        "name": "Product C",
+        "price": 25,
+        "retailer_name": "Retailer 5"
+    },
+    {
+        "name": "Test Product",
+        "price": 100,
+        "retailer_name": "Test Retailer"
+    },
+    {
+        "name": "Test Product",
+        "price": 100,
+        "retailer_name": "Test Retailer"
+    },
+    {
+        "name": "Test Product",
+        "price": 100,
+        "retailer_name": "Test Retailer"
+    },
+    {
+        "name": "Test Product",
+        "price": 100,
+        "retailer_name": "Test Retailer"
+    }
+]
